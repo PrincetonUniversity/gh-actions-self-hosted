@@ -1,5 +1,5 @@
 name: run-test
-on: [pull-requests]
+on: [pull-request]
 jobs:
   build:
     runs-on: self-hosted
